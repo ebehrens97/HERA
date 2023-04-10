@@ -40,12 +40,12 @@ with one row per region.
 
 The first 6 columns are the same as the input csv file. Additionally,
 
-`regionra` and `regiondec` = RA and Dec of center pixel in that region
-`averint` = averaged integrated intensity over region
-`rmsaver` = spatial rms over region 
-`rmsint` = rms of integrated intensity
-`rmsint_measnoiseportion` = measured noise portion of the rms, used to calculate `rmsint`
-`rmsint_fluxcalportion` = flux calibration portion of the rms, used to calculate `rmsint`
+- `regionra` and `regiondec` = RA and Dec of center pixel in that region
+- `averint` = averaged integrated intensity over region
+- `rmsaver` = spatial rms over region 
+- `rmsint` = rms of integrated intensity
+- `rmsint_measnoiseportion` = measured noise portion of the rms, used to calculate `rmsint`
+- `rmsint_fluxcalportion` = flux calibration portion of the rms, used to calculate `rmsint`
 
 If you chose to have the the code define regions, you will get the same output CSV file but named 
 `reg_avg_{Shape}{Shapesize}_{Nanpct}.csv`, with the user-defined region, size, and NaN percentage in the file name (e.g. `reg_avg_hex50pc_0.8.csv`). The code will also output 2 ds9 .reg files per transition: one with full region coverage over the whole image (before Nan-filled regions are discarded) and one with region coverage only over the key areas in the image (after NaN-filled/background regions are discarded), named respectively 
