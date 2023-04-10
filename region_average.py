@@ -1,8 +1,7 @@
 # Created by: Erica Behrens
 # Send any questions to eabehrens97@gmail.com
-# Revised 12/23/21
 
-# Script to extract molecualr line integrated intensity image pixel values averaged over a user-defined area for entire image
+# Script to extract moleculr line integrated intensity values averaged over user-defined regions for entire image
 # See 00README.txt file for instructions on how to run code
 
 
