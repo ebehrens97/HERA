@@ -1,0 +1,9 @@
+species,transition,chanrms,intimage,fwzi,chanwidth,fluxcaluncert
+HCN,1-0,0.27,/Users/eb7he/research_uva/HCNHNC/CubeLineMoment/moment0/NGC253_HCN_10_moment0_widthscale1.0_sncut999.0_widthcutscale1.0.fits,200,10.0,0.15
+HCN,2-1,6.41,/Users/eb7he/research_uva/HCNHNC/CubeLineMoment/moment0/NGC253_HCN_21_moment0_widthscale1.0_sncut999.0_widthcutscale1.0.fits,200,10.0,0.15
+HCN,3-2,1.46,/Users/eb7he/research_uva/HCNHNC/CubeLineMoment/moment0/NGC253_HCN_32_moment0_widthscale1.0_sncut999.0_widthcutscale1.0.fits,200,10.0,0.15
+HCN,4-3,2.7,/Users/eb7he/research_uva/HCNHNC/CubeLineMoment/moment0/NGC253_HCN_43_moment0_widthscale1.0_sncut999.0_widthcutscale1.0.fits,200,10.0,0.15
+HNC,1-0,0.26,/Users/eb7he/research_uva/HCNHNC/CubeLineMoment/moment0/NGC253_HNC_10_moment0_widthscale1.0_sncut999.0_widthcutscale1.0.fits,200,10.0,0.15
+HNC,2-1,12.52,/Users/eb7he/research_uva/HCNHNC/CubeLineMoment/moment0/NGC253_HNC_21_moment0_widthscale1.0_sncut999.0_widthcutscale1.0.fits,200,10.0,0.15
+HNC,3-2,1.98,/Users/eb7he/research_uva/HCNHNC/CubeLineMoment/moment0/NGC253_HNC_32_moment0_widthscale1.0_sncut999.0_widthcutscale1.0.fits,200,10.0,0.15
+HNC,4-3,3.47,/Users/eb7he/research_uva/HCNHNC/CubeLineMoment/moment0/NGC253_HNC_43_moment0_widthscale1.0_sncut999.0_widthcutscale1.0.fits,200,10.0,0.15
