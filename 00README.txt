@@ -16,6 +16,7 @@ An example input CSV file row:
 
 HC15N	1-0	0.18	/Users/eb7he/research_uva/HCNHNC/CubeLineMoment/moment0/NGC253_HC15N_10_moment0_widthscale1.0_sncut3.0_widthcutscale1.0.fits	100	10.0	0.15
 
+See csvinput_HCNHNC.csv for more examples.
 
 
 ------------------  USER INPUT ------------------------
